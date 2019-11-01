@@ -1,0 +1,34 @@
+{
+  "name": "pv-restassignment",
+  "version": "1.0.0",
+  "description": "Task1 build API  endpoints for the a model named user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabea-alsoliman/PV-restAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabea-alsoliman/PV-restAssignment/issues"
+  },
+  "homepage": "https://github.com/Rabea-alsoliman/PV-restAssignment#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "email-regex": "^4.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "mongoose": "^5.7.7",
+    "mongoose-unique-validator": "^2.0.3",
+    "multer": "^1.4.2",
+    "node-input-validator": "^4.1.0",
+    "sync-request": "^6.1.0",
+    "validator": "^12.0.0"
+  }
+}
