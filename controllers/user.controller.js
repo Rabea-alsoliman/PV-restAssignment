@@ -1,5 +1,5 @@
 const UserModel = require('../models/user.model');
-var validator = require('validator');
+const validator = require('validator');
 const crypto = require('crypto');
 const multer = require('multer');
 
